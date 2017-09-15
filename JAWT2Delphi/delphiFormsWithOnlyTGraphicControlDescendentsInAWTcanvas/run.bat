@@ -1,0 +1,4 @@
+SET JDK13=c:\java\JDK1.3rc1
+SET PATH=.;%JDK13%\BIN;%JDK13%\JRE\BIN
+SET CLASSPATH=.
+java MyWindow

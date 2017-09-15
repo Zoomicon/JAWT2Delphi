@@ -1,0 +1,12 @@
+[Hint] JavaRuntime.pas(221): Variable 'PropsPointer' is declared but never used in 'TJavaRuntime.GetVM'
+[Hint] JavaRuntime.pas(335): Variable 'Option' is declared but never used in 'TJavaRuntime.processCommandLine'
+[Hint] JavaRuntime.pas(394): Variable 'JDKHome' is declared but never used in 'TJavaRuntime.GetClasspath'
+[Hint] JavaRuntime.pas(480): Variable 'S' is declared but never used in 'TJavaRuntime.FindJava11'
+[Hint] JavaRuntime.pas(481): Variable 'PC' is declared but never used in 'TJavaRuntime.FindJava11'
+[Hint] JavaRuntime.pas(670): Variable 'S' is declared but never used in 'TClassPath.getDefault'
+[Hint] JavaRuntime.pas(181): Variable 'JVM' is declared but never used in 'JavaRuntime'
+[Hint] JavaRuntime.pas(86): Private symbol 'FBaseSystemClasspath' declared but never used
+[Hint] JNIWrapper.pas(250): Value assigned to 'VM' never used
+[Hint] JNIWrapper.pas(558): Value assigned to 'objHandle' never used
+[Hint] JNIWrapper.pas(868): Value assigned to 'P' never used
+[Hint] JUtils.pas(98): Variable 'S' is declared but never used in 'ConvertStrings'
