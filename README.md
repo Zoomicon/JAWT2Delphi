@@ -6,7 +6,7 @@ Makes use of *jni.h* from *JNIWrapper* of jrevusky @ bigfoot.com (Crystalline So
 
 Included in the download is sample code from "JavaWorld Tip #86" article, ported from C/JAWT to Delphi/JAWT2Delphi
 
-[image:http://images.techhive.com/images/idge/imported/article/jvw/2000/01/smiley_sml-100158893-orig.jpg]
+![](http://images.techhive.com/images/idge/imported/article/jvw/2000/01/smiley_sml-100158893-orig.jpg)
 
 *References on JAWT*
 
